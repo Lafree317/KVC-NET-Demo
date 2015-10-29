@@ -32,31 +32,10 @@
      AFNetworkReachabilityStatusReachableViaWiFi = 2,//wifi网络
      };
      */
-    //设置监听
-    [manager setReachabilityStatusChangeBlock:^(AFNetworkReachabilityStatus status) {
-        switch (status) {
-            case AFNetworkReachabilityStatusUnknown:
-                NSLog(@"未识别的网络");
-                break;
-                
-            case AFNetworkReachabilityStatusNotReachable:
-                NSLog(@"不可达的网络(未连接)");
-                break;
-                
-            case AFNetworkReachabilityStatusReachableViaWWAN:
-                NSLog(@"2G,3G,4G...的网络");
-                break;
-                
-            case AFNetworkReachabilityStatusReachableViaWiFi:
-                NSLog(@"wifi的网络");
-                break;
-            default:
-                break;
-        }
-    }];
-    //开始监听
-    [manager startMonitoring];
+     
+   
 }
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.

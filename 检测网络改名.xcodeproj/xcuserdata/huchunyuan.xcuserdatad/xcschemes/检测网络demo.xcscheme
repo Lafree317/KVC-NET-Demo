@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "522CE7B21BC89F2D00BB1D0D"
-               BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo.app"
-               BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo"
-               ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo.xcodeproj">
+               BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;.app"
+               BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;"
+               ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "522CE7CB1BC89F2D00BB1D0D"
-               BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demoTests.xctest"
-               BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demoTests"
-               ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo.xcodeproj">
+               BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;Tests.xctest"
+               BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;Tests"
+               ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "522CE7CB1BC89F2D00BB1D0D"
-               BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demoTests.xctest"
-               BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demoTests"
-               ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo.xcodeproj">
+               BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;Tests.xctest"
+               BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;Tests"
+               ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "522CE7B21BC89F2D00BB1D0D"
-            BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo.app"
-            BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo"
-            ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo.xcodeproj">
+            BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;.app"
+            BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;"
+            ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "522CE7B21BC89F2D00BB1D0D"
-            BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo.app"
-            BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo"
-            ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo.xcodeproj">
+            BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;.app"
+            BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;"
+            ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "522CE7B21BC89F2D00BB1D0D"
-            BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo.app"
-            BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo"
-            ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;demo.xcodeproj">
+            BuildableName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;.app"
+            BlueprintName = "&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;"
+            ReferencedContainer = "container:&#x68c0;&#x6d4b;&#x7f51;&#x7edc;&#x6539;&#x540d;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
